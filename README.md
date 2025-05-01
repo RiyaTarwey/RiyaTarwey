@@ -55,7 +55,7 @@ Click any badge below to explore more!
 > ✈️ A full-stack booking system with real-time flight data and secure login.
 
 *Tech Stack:* Node.js, Express.js, MongoDB, HTML, CSS, JavaScript  
-*Status:* 🚧 In Progress
+*Status:* ✅ Complete
 
 ---
 
